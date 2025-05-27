@@ -3,7 +3,7 @@ A curated dataset of estimated building heights across urban areas in the Global
 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/a9f7121d-a8d7-4feb-a42b-e1be5db25b6d" />
 
-## 🛰 Multi-Source data
+## 🛰 Multi-Source Data
 Satellite Imagery: https://earth.google.com
 
 ICESat-2(ATL03 & ATL08): https://nsidc.org/data/icesat-2/data
