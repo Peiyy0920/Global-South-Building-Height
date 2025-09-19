@@ -3,7 +3,7 @@ A curated dataset of estimated building heights across urban areas in the Global
 
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/a9f7121d-a8d7-4feb-a42b-e1be5db25b6d" />
 
-## 🛰 Multi-Source Data
+## 🛰 Original Data
 Satellite Imagery: https://earth.google.com
 
 ICESat-2(ATL03 & ATL08): https://nsidc.org/data/icesat-2/data
@@ -12,6 +12,15 @@ ICESat-2(ATL03 & ATL08): https://nsidc.org/data/icesat-2/data
 
 ## 📁 Repository Structure
 📂 demo/                  # Sample visualization of multi-temporal building height maps (2016–2023)
+
+
+## 🌍 Study Area – Nairobi, Kenya
+Coordinates: 1.2921° S, 36.8219° E
+
+GeoExtent: [1.22° S – 1.14° S, 36.47° E – 36.67° E]
+
+![Figure_11](https://github.com/user-attachments/assets/4dca386f-1543-4bae-8c56-f9e39b1c90b0)
+
 
 ## 📬 Contact
 For questions, feedback, or collaboration inquiries, feel free to reach out:
