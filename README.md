@@ -4,20 +4,25 @@ A curated dataset of estimated building heights across urban areas in the Global
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/a9f7121d-a8d7-4feb-a42b-e1be5db25b6d" />
 
 ## 🛰 Original Data
-Satellite Imagery: https://earth.google.com
-
-ICESat-2(ATL03 & ATL08): https://nsidc.org/data/icesat-2/data
-
-2D building footprints: https://overturemaps.org/download
+| Source | Link |
+|--------|------|
+| Satellite Imagery | [Google Earth](https://earth.google.com) |
+| ICESat-2 (ATL03 & ATL08) | [NSIDC](https://nsidc.org/data/icesat-2/data) |
+| 2D Building Footprints | [Overture Maps](https://overturemaps.org/download) |
 
 ## 📁 Repository Structure
 📂 demo/                  # Sample visualization of multi-temporal building height maps (2016–2023)
 
 
-## 🌍 Study Area – Nairobi, Kenya
-Coordinates: 1.2921° S, 36.8219° E
+## 🌍 Study Area
 
-GeoExtent: [1.22° S – 1.14° S, 36.47° E – 36.67° E]
+### 1. Nairobi, Kenya
+**Coordinates:** 1.2921° S, 36.8219° E  
+**Dataset Size:** 47,852 × 26,292 pixels  
+**Image Resolution:** 0.5 m  
+
+📥 **Download**：[**Nairobi Building Height Dataset**](https://pan.baidu.com/s/1hP0esFvvM72NxCSCH_7eWQ)  
+🔑 **Extraction Code:** `ppgf`
 
 ![Figure_11](https://github.com/user-attachments/assets/4dca386f-1543-4bae-8c56-f9e39b1c90b0)
 
