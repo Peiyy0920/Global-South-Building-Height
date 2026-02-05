@@ -30,3 +30,7 @@ A curated dataset of estimated building heights across urban areas in the Global
 ## 📬 Contact
 For questions, feedback, or collaboration inquiries, feel free to reach out:
 📧 painyy@whu.edu.cn
+
+## 📖 Citation
+If you use this dataset in your research or projects, please cite it as:
+>  Pei, Yingying and Zhao, Qunshan and Wang, Junye and Zheng, Zhi and Liu, Xinyi and Huang, Xuejun and Zhang, Yongjun and Wan, Yi, Three-Dimensional Time Series Building Reconstruction Framework in Global South Based on Openly Available Satellite Data. Available at SSRN: https://ssrn.com/abstract=5675153 or http://dx.doi.org/10.2139/ssrn.5675153
