@@ -33,4 +33,4 @@ For questions, feedback, or collaboration inquiries, feel free to reach out:
 
 ## 📖 Citation
 If you use this dataset in your research or projects, please cite it as:
->  Pei, Yingying and Zhao, Qunshan and Wang, Junye and Zheng, Zhi and Liu, Xinyi and Huang, Xuejun and Zhang, Yongjun and Wan, Yi, Three-Dimensional Time Series Building Reconstruction Framework in Global South Based on Openly Available Satellite Data. Available at SSRN: https://ssrn.com/abstract=5675153 or http://dx.doi.org/10.2139/ssrn.5675153
+>  Pei Y, Zhao Q, Wang J, et al. Three-dimensional time series building reconstruction framework in global south based on openly available satellite data[J]. International Journal of Applied Earth Observation and Geoinformation, 2026, 146: 105160.
