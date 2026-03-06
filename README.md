@@ -22,7 +22,7 @@ A curated dataset of estimated building heights across urban areas in the Global
 **Image Resolution:** 0.5 m  
 
 📥 **Download**：[**Nairobi Building Height Dataset**](https://pan.baidu.com/s/1hP0esFvvM72NxCSCH_7eWQ)  
-🔑 **Extraction Code:** `ppgf`
+🔑 **Extraction Code:**
 
 ![Figure_11](https://github.com/user-attachments/assets/4dca386f-1543-4bae-8c56-f9e39b1c90b0)
 
